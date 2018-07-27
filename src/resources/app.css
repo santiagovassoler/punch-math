@@ -1,0 +1,48 @@
+@font-face {
+src: url("fonts/mrsmonster.ttf");
+}
+
+
+.title{
+	-fx-font-family: "Mrs. Monster";
+    -fx-padding: 5;
+    -fx-font-size:90;
+    -fx-text-fill: white;  
+    -fx-color:white;
+}
+.txt {
+-fx-font-family: "Mrs. Monster";
+-fx-font-size: 25;
+ -fx-text-fill: white; 
+}
+.txtfield{
+	-fx-font-family: "Mrs. Monster";
+-fx-font-size: 25;
+ -fx-text-fill: black; 
+}
+.questionLabel 
+{
+	-fx-font-family: "Mrs. Monster";
+    -fx-padding: 5;
+    -fx-font-size:90;
+    -fx-text-fill: white;  
+}
+.playerLabel 
+{
+	-fx-font-family: "Mrs. Monster";
+    -fx-padding: 5;
+    -fx-font-size:20;
+    -fx-text-fill: white;  
+}
+
+.button
+{
+	-fx-font-family: "Mrs. Monster";
+    -fx-padding: 5;
+    -fx-font-size:20;
+    -fx-text-fill: white;  
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+    -fx-background-color: #DFB951;
+}
